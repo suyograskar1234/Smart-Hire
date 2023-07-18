@@ -1,0 +1,12 @@
+Step 1.	Open terminal in this location
+Step 2.	Run command `npm install`
+Step 3.	Run `cd client'
+Step 4. Run `npm install` or `yarn install`
+Step 5.	Run `cd ../backend`
+Step 6. Run `npm install`
+Step 7. Run `cd ..`
+Step 8. Run `npm run dev`
+
+
+---------------------------------------------------
+NOTE: Please update AWS API Key, Cloudinary API Key & OpenAI API Key
